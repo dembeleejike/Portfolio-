@@ -164,7 +164,7 @@ span{
 .contact{
   display:flex;
   justify-content: center;
-  color: black;
+  color: #fff;
   
 }
 .contact a{
@@ -177,7 +177,7 @@ span{
   }
 }
 .contact a:hover{
-  background: blue;
+  background: #0f6edc;
 }
 .footer-content{
     background: #111;
